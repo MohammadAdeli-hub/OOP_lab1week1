@@ -12,8 +12,5 @@ public class Main
         firstbook.page_count=555;
 
         firstbook.displayDetails();
-
-
-
     }
 }
